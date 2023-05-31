@@ -1,0 +1,217 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ieu-a-1229,ieu-a-1120,Ovarian cancer,Serous ovarian cancer: low grade and low malignant potential,MR Egger,8,0.214519686384485,0.131539284177095,0.154045291658736
+ieu-a-1229,ieu-a-1120,Ovarian cancer,Serous ovarian cancer: low grade and low malignant potential,Weighted median,8,0.303254986308731,0.0466081911062297,7.69351815004502e-11
+ieu-a-1229,ieu-a-1120,Ovarian cancer,Serous ovarian cancer: low grade and low malignant potential,Inverse variance weighted,8,0.351086664460013,0.0498369961372604,1.85862104994396e-12
+ieu-a-1229,ieu-a-1120,Ovarian cancer,Serous ovarian cancer: low grade and low malignant potential,Weighted mode,8,0.280791152094723,0.0581816448754585,0.0019079837465447
+ieu-a-1229,ieu-b-4810,Breast cancer,Serous ovarian cancer: low grade and low malignant potential,MR Egger,15,0.00287911205829176,0.00336911302974637,0.408267007580956
+ieu-a-1229,ieu-b-4810,Breast cancer,Serous ovarian cancer: low grade and low malignant potential,Weighted median,15,0.00453504129205409,0.00147549370485584,0.00211510164907516
+ieu-a-1229,ieu-b-4810,Breast cancer,Serous ovarian cancer: low grade and low malignant potential,Inverse variance weighted,15,0.00544869143034998,0.00133492843231384,4.47198715270616e-05
+ieu-a-1229,ieu-b-4810,Breast cancer,Serous ovarian cancer: low grade and low malignant potential,Weighted mode,15,0.0046965812285845,0.00195716868150002,0.0308877721269923
+ieu-a-1132,met-b-154,CD337 on NK early,ER+ Breast cancer (Oncoarray),MR Egger,37,-0.236409222258759,0.102389260765655,0.0269718022497685
+ieu-a-1132,met-b-154,CD337 on NK early,ER+ Breast cancer (Oncoarray),Weighted median,37,-0.164011554780316,0.0634464935884539,0.00973684529774425
+ieu-a-1132,met-b-154,CD337 on NK early,ER+ Breast cancer (Oncoarray),Inverse variance weighted,37,-0.0873213838012995,0.0464784121366339,0.0602784401992855
+ieu-a-1132,met-b-154,CD337 on NK early,ER+ Breast cancer (Oncoarray),Weighted mode,37,-0.148571867499335,0.0633363271423619,0.0246152018655173
+ieu-a-1132,ieu-a-1228,High grade and low grade serous ovarian cancer,ER+ Breast cancer (Oncoarray),MR Egger,58,-0.143247116070352,0.0687417655732752,0.0417495177030163
+ieu-a-1132,ieu-a-1228,High grade and low grade serous ovarian cancer,ER+ Breast cancer (Oncoarray),Weighted median,58,-0.0807084875321986,0.0362272600514598,0.0258912812496221
+ieu-a-1132,ieu-a-1228,High grade and low grade serous ovarian cancer,ER+ Breast cancer (Oncoarray),Inverse variance weighted,58,-0.00634595256450102,0.0330692114661632,0.847821227125403
+ieu-a-1132,ieu-a-1228,High grade and low grade serous ovarian cancer,ER+ Breast cancer (Oncoarray),Weighted mode,58,-0.0946208816769872,0.0361645172979457,0.0113557856408024
+ieu-a-1132,ieu-a-1122,Low grade serous ovarian cancer,ER+ Breast cancer (Oncoarray),MR Egger,58,-0.414931420284857,0.192143765117172,0.0351103054677871
+ieu-a-1132,ieu-a-1122,Low grade serous ovarian cancer,ER+ Breast cancer (Oncoarray),Weighted median,58,-0.35695110087908,0.118987549519599,0.00270065640565738
+ieu-a-1132,ieu-a-1122,Low grade serous ovarian cancer,ER+ Breast cancer (Oncoarray),Inverse variance weighted,58,-0.125503847685984,0.0903680975512386,0.16489144195408
+ieu-a-1132,ieu-a-1122,Low grade serous ovarian cancer,ER+ Breast cancer (Oncoarray),Weighted mode,58,-0.360743975828891,0.135019141492469,0.00981877313119792
+ieu-a-1132,ieu-b-4864,Total Testosterone,ER+ Breast cancer (Oncoarray),MR Egger,58,0.0343634126437568,0.0133849123981044,0.0129467051827303
+ieu-a-1132,ieu-b-4864,Total Testosterone,ER+ Breast cancer (Oncoarray),Weighted median,58,0.0174865347547558,0.00772427663473549,0.0235838909199646
+ieu-a-1132,ieu-b-4864,Total Testosterone,ER+ Breast cancer (Oncoarray),Inverse variance weighted,58,0.0127778621664115,0.00634822410309776,0.0441330762800035
+ieu-a-1132,ieu-b-4864,Total Testosterone,ER+ Breast cancer (Oncoarray),Weighted mode,58,0.0176207507878103,0.00750286022664443,0.0223388122289423
+ieu-a-1168,met-b-159,CD123 on 11c+123+DC,Breast cancer (GWAS),MR Egger,29,0.2911190890573,0.113864177257261,0.0165039416710241
+ieu-a-1168,met-b-159,CD123 on 11c+123+DC,Breast cancer (GWAS),Weighted median,29,0.165911618112029,0.0604647105207366,0.00607063867870541
+ieu-a-1168,met-b-159,CD123 on 11c+123+DC,Breast cancer (GWAS),Inverse variance weighted,29,0.101712752142187,0.050961541628364,0.0459477757091303
+ieu-a-1168,met-b-159,CD123 on 11c+123+DC,Breast cancer (GWAS),Weighted mode,29,0.154094168088588,0.0607671260909345,0.0170822340287568
+ieu-a-1162,met-b-234,CD4mem:%preTh17 (3),Breast cancer (iCOGS),MR Egger,37,-0.0315154142484797,0.016822498649673,0.0693819140782026
+ieu-a-1162,met-b-234,CD4mem:%preTh17 (3),Breast cancer (iCOGS),Weighted median,37,-0.0339313863973843,0.0153953133108755,0.0275238148326426
+ieu-a-1162,met-b-234,CD4mem:%preTh17 (3),Breast cancer (iCOGS),Inverse variance weighted,37,-0.039022126405571,0.0147766011810367,0.00827092406510963
+ieu-a-1162,met-b-234,CD4mem:%preTh17 (3),Breast cancer (iCOGS),Weighted mode,37,-0.0327374830407485,0.0138448601405455,0.0235619548272134
+ieu-a-1162,met-b-254,CD8:%R5+,Breast cancer (iCOGS),MR Egger,37,-0.0426886349764325,0.014680573846542,0.00627999523335202
+ieu-a-1162,met-b-254,CD8:%R5+,Breast cancer (iCOGS),Weighted median,37,-0.0374698510799257,0.0157945964234946,0.0176767311031651
+ieu-a-1162,met-b-254,CD8:%R5+,Breast cancer (iCOGS),Inverse variance weighted,37,-0.0337558597380003,0.0130386065730716,0.00962785220796046
+ieu-a-1162,met-b-254,CD8:%R5+,Breast cancer (iCOGS),Weighted mode,37,-0.0359251325927118,0.0141906135588392,0.0158618494930375
+ieu-a-1162,met-b-204,CD4mem:%preTh17 (2),Breast cancer (iCOGS),MR Egger,37,-0.0260506332893576,0.0148562004105349,0.0882677284382415
+ieu-a-1162,met-b-204,CD4mem:%preTh17 (2),Breast cancer (iCOGS),Weighted median,37,-0.0324702132948168,0.0151568301966233,0.0321707497753725
+ieu-a-1162,met-b-204,CD4mem:%preTh17 (2),Breast cancer (iCOGS),Inverse variance weighted,37,-0.0331021682242224,0.0130724935565288,0.0113349317116926
+ieu-a-1162,met-b-204,CD4mem:%preTh17 (2),Breast cancer (iCOGS),Weighted mode,37,-0.0284378403877814,0.0133815541863737,0.0405061702060525
+ieu-a-1162,met-b-265,MDC:%64-274-,Breast cancer (iCOGS),MR Egger,37,0.0343993179676613,0.014622701214485,0.0244017779668676
+ieu-a-1162,met-b-265,MDC:%64-274-,Breast cancer (iCOGS),Weighted median,37,0.0364320797696019,0.0170208418646358,0.0323192769707267
+ieu-a-1162,met-b-265,MDC:%64-274-,Breast cancer (iCOGS),Inverse variance weighted,37,0.0402311152480527,0.0128726366527148,0.00177611428741079
+ieu-a-1162,met-b-265,MDC:%64-274-,Breast cancer (iCOGS),Weighted mode,37,0.036493950849637,0.0148217998523852,0.0187299639017721
+ieu-a-105,ieu-a-75,Waist-to-hip ratio,Waist circumference,MR Egger,5,0.642380223376106,1.30651757016198,0.656676612563631
+ieu-a-105,ieu-a-75,Waist-to-hip ratio,Waist circumference,Weighted median,5,0.879269640515664,0.160105550833303,3.97829979419154e-08
+ieu-a-105,ieu-a-75,Waist-to-hip ratio,Waist circumference,Inverse variance weighted,5,1.04878132536923,0.216229961248165,1.23271590445321e-06
+ieu-a-105,ieu-a-75,Waist-to-hip ratio,Waist circumference,Weighted mode,5,0.808537075861417,0.276727173375544,0.0431664415334655
+ieu-a-105,ieu-a-69,Waist circumference,Waist circumference,MR Egger,5,1.32292440357735,0.587749100477802,0.109853470473302
+ieu-a-105,ieu-a-69,Waist circumference,Waist circumference,Weighted median,5,1.26004955591584,0.165484118839501,2.65076863334711e-14
+ieu-a-105,ieu-a-69,Waist circumference,Waist circumference,Inverse variance weighted,5,1.33170528654915,0.0953675459703646,2.58779594699993e-44
+ieu-a-105,ieu-a-69,Waist circumference,Waist circumference,Weighted mode,5,1.23719181958798,0.181280950970424,0.00241030992939996
+ieu-a-105,ieu-a-109,Waist-to-hip ratio,Waist circumference,MR Egger,5,0.953755803866997,1.27431617727022,0.508525626167704
+ieu-a-105,ieu-a-109,Waist-to-hip ratio,Waist circumference,Weighted median,5,1.01693832792609,0.200508575393401,3.94081423297495e-07
+ieu-a-105,ieu-a-109,Waist-to-hip ratio,Waist circumference,Inverse variance weighted,5,1.11138468864432,0.222751649916886,6.05845630971273e-07
+ieu-a-105,ieu-a-109,Waist-to-hip ratio,Waist circumference,Weighted mode,5,1.04629943958027,0.371936604391945,0.0481641837324016
+ieu-a-105,ieu-a-111,Waist-to-hip ratio,Waist circumference,MR Egger,5,0.652481263798819,1.32974912946593,0.657302359690095
+ieu-a-105,ieu-a-111,Waist-to-hip ratio,Waist circumference,Weighted median,5,1.11711938149126,0.197376455239205,1.51513181762334e-08
+ieu-a-105,ieu-a-111,Waist-to-hip ratio,Waist circumference,Inverse variance weighted,5,1.29796865931497,0.243668313039817,9.99664995116601e-08
+ieu-a-105,ieu-a-111,Waist-to-hip ratio,Waist circumference,Weighted mode,5,0.970395343286107,0.312160146491658,0.0359189503516681
+met-b-159,met-b-266,MDC:%32+,CD123 on 11c+123+DC,MR Egger,6,0.0614396989110884,0.352065288056352,0.869939661450753
+met-b-159,met-b-266,MDC:%32+,CD123 on 11c+123+DC,Weighted median,6,0.347774816335252,0.0857445600573729,4.99330140067205e-05
+met-b-159,met-b-266,MDC:%32+,CD123 on 11c+123+DC,Inverse variance weighted,6,0.347115352539049,0.064863293738786,8.72323294809405e-08
+met-b-159,met-b-266,MDC:%32+,CD123 on 11c+123+DC,Weighted mode,6,0.410285705894937,0.141115854807895,0.0334993681794245
+met-b-159,met-b-141,CD123 on mDC,CD123 on 11c+123+DC,MR Egger,6,0.373758542305479,0.413410820553251,0.417077037797687
+met-b-159,met-b-141,CD123 on mDC,CD123 on 11c+123+DC,Weighted median,6,0.478060230541911,0.103906593548952,4.20739650467301e-06
+met-b-159,met-b-141,CD123 on mDC,CD123 on 11c+123+DC,Inverse variance weighted,6,0.520962519519837,0.0779998889167613,2.40551619494346e-11
+met-b-159,met-b-141,CD123 on mDC,CD123 on 11c+123+DC,Weighted mode,6,0.443110750633198,0.141631362182406,0.025997888012783
+ieu-a-109,ieu-a-81,Waist-to-hip ratio,Waist-to-hip ratio,MR Egger,5,1.04215425290126,1.22608241584872,0.457786309081676
+ieu-a-109,ieu-a-81,Waist-to-hip ratio,Waist-to-hip ratio,Weighted median,5,1.01226263415351,0.112621198058431,2.51296528128061e-19
+ieu-a-109,ieu-a-81,Waist-to-hip ratio,Waist-to-hip ratio,Inverse variance weighted,5,1.02136780887034,0.0629411538605375,3.23137833085599e-59
+ieu-a-109,ieu-a-81,Waist-to-hip ratio,Waist-to-hip ratio,Weighted mode,5,1.08106513463177,0.145120280119619,0.00173462087066815
+ieu-a-109,ieu-a-75,Waist-to-hip ratio,Waist-to-hip ratio,MR Egger,5,0.744518895645033,0.783665963828024,0.412177979339074
+ieu-a-109,ieu-a-75,Waist-to-hip ratio,Waist-to-hip ratio,Weighted median,5,0.877182382870408,0.0976932766572933,2.73379834246114e-19
+ieu-a-109,ieu-a-75,Waist-to-hip ratio,Waist-to-hip ratio,Inverse variance weighted,5,0.870443607452397,0.0461955264251839,3.37979764340625e-79
+ieu-a-109,ieu-a-75,Waist-to-hip ratio,Waist-to-hip ratio,Weighted mode,5,0.87926400461534,0.119741390203018,0.00183136969693515
+ieu-a-109,ieu-a-69,Waist circumference,Waist-to-hip ratio,MR Egger,5,-0.215276639573452,2.371770162775,0.933399125314663
+ieu-a-109,ieu-a-69,Waist circumference,Waist-to-hip ratio,Weighted median,5,0.627833161203462,0.0877501539744315,8.38064208865001e-13
+ieu-a-109,ieu-a-69,Waist circumference,Waist-to-hip ratio,Inverse variance weighted,5,0.692861047075669,0.12464322829071,2.7170729117377e-08
+ieu-a-109,ieu-a-69,Waist circumference,Waist-to-hip ratio,Weighted mode,5,0.670298891288126,0.148767325606644,0.0107755489414359
+ieu-a-109,ieu-a-111,Waist-to-hip ratio,Waist-to-hip ratio,MR Egger,5,0.549609183654401,1.12145940630994,0.657677922727244
+ieu-a-109,ieu-a-111,Waist-to-hip ratio,Waist-to-hip ratio,Weighted median,5,0.999627702562766,0.11757113323727,1.85834528569089e-17
+ieu-a-109,ieu-a-111,Waist-to-hip ratio,Waist-to-hip ratio,Inverse variance weighted,5,1.04153476156377,0.0678335945375042,3.31663895085577e-53
+ieu-a-109,ieu-a-111,Waist-to-hip ratio,Waist-to-hip ratio,Weighted mode,5,0.985632363841766,0.150995276977232,0.00284495800656682
+ieu-a-109,ieu-b-4870,Sex hormone binding globulin (SHBG),Waist-to-hip ratio,MR Egger,5,2.1093080743121,1.68362158452731,0.299028325916876
+ieu-a-109,ieu-b-4870,Sex hormone binding globulin (SHBG),Waist-to-hip ratio,Weighted median,5,-0.207410179021799,0.0502037273032535,3.60607414854442e-05
+ieu-a-109,ieu-b-4870,Sex hormone binding globulin (SHBG),Waist-to-hip ratio,Inverse variance weighted,5,-0.325187330070429,0.112364836961885,0.00380330518261149
+ieu-a-109,ieu-b-4870,Sex hormone binding globulin (SHBG),Waist-to-hip ratio,Weighted mode,5,-0.191145359802695,0.0583569195775078,0.0306314852178451
+ieu-a-109,ieu-a-101,Hip circumference,Waist-to-hip ratio,MR Egger,5,-1.4468862051068,1.89114299090987,0.499900538656866
+ieu-a-109,ieu-a-101,Hip circumference,Waist-to-hip ratio,Weighted median,5,-0.630421702522223,0.115606181650991,4.94760144981193e-08
+ieu-a-109,ieu-a-101,Hip circumference,Waist-to-hip ratio,Inverse variance weighted,5,-0.672391282363456,0.102724801956515,5.92731339296177e-11
+ieu-a-109,ieu-a-101,Hip circumference,Waist-to-hip ratio,Weighted mode,5,-0.61547336515962,0.153948684926105,0.0161581264890254
+ieu-a-109,ieu-a-57,Hip circumference,Waist-to-hip ratio,MR Egger,5,-1.80250123392343,2.00458313244087,0.434820315357937
+ieu-a-109,ieu-a-57,Hip circumference,Waist-to-hip ratio,Weighted median,5,-0.507583783150653,0.0840109987621497,1.52335378479119e-09
+ieu-a-109,ieu-a-57,Hip circumference,Waist-to-hip ratio,Inverse variance weighted,5,-0.570429184067472,0.10882119251811,1.58936449563928e-07
+ieu-a-109,ieu-a-57,Hip circumference,Waist-to-hip ratio,Weighted mode,5,-0.521240852724722,0.125453132047167,0.0142041419105103
+ieu-a-1129,ieu-b-4864,Total Testosterone,Breast cancer (Oncoarray),MR Egger,61,0.0356519608211864,0.0151641657516826,0.0220802647725231
+ieu-a-1129,ieu-b-4864,Total Testosterone,Breast cancer (Oncoarray),Weighted median,61,0.0163035653870372,0.00813729929386362,0.0451172404694932
+ieu-a-1129,ieu-b-4864,Total Testosterone,Breast cancer (Oncoarray),Inverse variance weighted,61,0.0146496986484517,0.00659682792510548,0.0263700250527206
+ieu-a-1129,ieu-b-4864,Total Testosterone,Breast cancer (Oncoarray),Weighted mode,61,0.0183814509981765,0.00965986704753112,0.0618592495979262
+ieu-a-1129,met-b-180,CD8:%TEM,Breast cancer (Oncoarray),MR Egger,37,-0.255117378552748,0.108524800808153,0.0244969825087929
+ieu-a-1129,met-b-180,CD8:%TEM,Breast cancer (Oncoarray),Weighted median,37,-0.139569245021095,0.0709035395885933,0.0490176253612668
+ieu-a-1129,met-b-180,CD8:%TEM,Breast cancer (Oncoarray),Inverse variance weighted,37,-0.0748332216066926,0.0437857207122339,0.087436461433533
+ieu-a-1129,met-b-180,CD8:%TEM,Breast cancer (Oncoarray),Weighted mode,37,-0.150919061944868,0.0693725347157381,0.0362395999935976
+ieu-a-1129,met-b-171,CD8:%RTE,Breast cancer (Oncoarray),MR Egger,37,0.281149712561225,0.110829852046327,0.015801791939939
+ieu-a-1129,met-b-171,CD8:%RTE,Breast cancer (Oncoarray),Weighted median,37,0.140091191749668,0.0638189207175818,0.0281538644030967
+ieu-a-1129,met-b-171,CD8:%RTE,Breast cancer (Oncoarray),Inverse variance weighted,37,0.0254662202099955,0.0478057778093197,0.594240073220787
+ieu-a-1129,met-b-171,CD8:%RTE,Breast cancer (Oncoarray),Weighted mode,37,0.175117874824608,0.079911036571401,0.034975548579524
+ieu-a-101,ieu-a-99,Hip circumference,Hip circumference,MR Egger,5,-0.665154529853451,0.905283132970459,0.515716642252319
+ieu-a-101,ieu-a-99,Hip circumference,Hip circumference,Weighted median,5,0.495800573992702,0.114560256037755,1.50566168441444e-05
+ieu-a-101,ieu-a-99,Hip circumference,Hip circumference,Inverse variance weighted,5,0.595534647005288,0.109596961523349,5.51475682541805e-08
+ieu-a-101,ieu-a-99,Hip circumference,Hip circumference,Weighted mode,5,0.448144739560567,0.146129068786765,0.0374104539544146
+ieu-a-101,ieu-a-97,Height,Hip circumference,MR Egger,5,2.1199318894022,1.06879619152106,0.141578197737734
+ieu-a-101,ieu-a-97,Height,Hip circumference,Weighted median,5,0.376651471226356,0.111502987416262,0.000730284652638716
+ieu-a-101,ieu-a-97,Height,Hip circumference,Inverse variance weighted,5,0.562965228298577,0.133650861021789,2.52886492834156e-05
+ieu-a-101,ieu-a-97,Height,Hip circumference,Weighted mode,5,0.323784086488567,0.109855288114912,0.0420793243621357
+ieu-a-101,ieu-a-57,Hip circumference,Hip circumference,MR Egger,5,-0.79794331400548,0.692419459607663,0.332653390082527
+ieu-a-101,ieu-a-57,Hip circumference,Hip circumference,Weighted median,5,0.640492447529027,0.100876796075437,2.16360897095244e-10
+ieu-a-101,ieu-a-57,Hip circumference,Hip circumference,Inverse variance weighted,5,0.758576873482389,0.107260068288554,1.52371241388549e-12
+ieu-a-101,ieu-a-57,Hip circumference,Hip circumference,Weighted mode,5,0.614281383026376,0.107254251969622,0.00460103026381656
+ieu-a-1095,ieu-a-1127,ER+ Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis),Age at menarche,MR Egger,60,-0.289958334515437,0.132971137153536,0.0332819653296386
+ieu-a-1095,ieu-a-1127,ER+ Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis),Age at menarche,Weighted median,60,-0.107013349060211,0.0375061670916303,0.00432786375215878
+ieu-a-1095,ieu-a-1127,ER+ Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis),Age at menarche,Inverse variance weighted,60,-0.0487035622869132,0.0360022501603075,0.176122033414433
+ieu-a-1095,ieu-a-1127,ER+ Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis),Age at menarche,Weighted mode,60,-0.153437679933702,0.069607687444076,0.0314147633347471
+ieu-a-1095,met-b-169,DNT:%CD127+TEF,Age at menarche,MR Egger,50,0.35995091242728,0.28469585222013,0.212214845987324
+ieu-a-1095,met-b-169,DNT:%CD127+TEF,Age at menarche,Weighted median,50,0.312754812874497,0.115361383460707,0.00670629120883029
+ieu-a-1095,met-b-169,DNT:%CD127+TEF,Age at menarche,Inverse variance weighted,50,0.170759040877078,0.0772198700333399,0.0270126118909978
+ieu-a-1095,met-b-169,DNT:%CD127+TEF,Age at menarche,Weighted mode,50,0.357646724762531,0.177336151568158,0.0492164047602995
+ieu-a-1095,ieu-a-69,Waist circumference,Age at menarche,MR Egger,61,0.151454290489297,0.0821159863748878,0.0701477917995697
+ieu-a-1095,ieu-a-69,Waist circumference,Age at menarche,Weighted median,61,0.114569016035043,0.0234374027612508,1.01711334132656e-06
+ieu-a-1095,ieu-a-69,Waist circumference,Age at menarche,Inverse variance weighted,61,0.0749726908027181,0.0210899253664778,0.000378115022067891
+ieu-a-1095,ieu-a-69,Waist circumference,Age at menarche,Weighted mode,61,0.131459413810639,0.0388565417895361,0.00126685310014583
+ieu-a-1095,ieu-a-1071,Sitting height ratio,Age at menarche,MR Egger,53,-0.394557380009397,0.156043743399836,0.014592153743797
+ieu-a-1095,ieu-a-1071,Sitting height ratio,Age at menarche,Weighted median,53,-0.125573559814878,0.0635044877919894,0.0479968152070999
+ieu-a-1095,ieu-a-1071,Sitting height ratio,Age at menarche,Inverse variance weighted,53,-0.0992042231593521,0.0422437033767248,0.0188553276972835
+ieu-a-1095,ieu-a-1071,Sitting height ratio,Age at menarche,Weighted mode,53,-0.112835160854595,0.125989133011113,0.374596622205429
+ieu-a-1095,ieu-a-1004,Age at menopause,Age at menarche,MR Egger,61,0.682506727114177,0.2627475899104,0.01183610488405
+ieu-a-1095,ieu-a-1004,Age at menopause,Age at menarche,Weighted median,61,0.249269075351159,0.0921664511386247,0.00683963054820445
+ieu-a-1095,ieu-a-1004,Age at menopause,Age at menarche,Inverse variance weighted,61,0.224661055688793,0.06936957940842,0.00120113437598198
+ieu-a-1095,ieu-a-1004,Age at menopause,Age at menarche,Weighted mode,61,0.294353623435234,0.149173230803811,0.0530804348096889
+ieu-a-1095,ieu-a-1035,Difference in height between childhood and adulthood,Age at menarche,MR Egger,54,-0.0552363261462202,0.289662901373677,0.849509653982178
+ieu-a-1095,ieu-a-1035,Difference in height between childhood and adulthood,Age at menarche,Weighted median,54,0.427371578379805,0.0886251703337519,1.41957111594159e-06
+ieu-a-1095,ieu-a-1035,Difference in height between childhood and adulthood,Age at menarche,Inverse variance weighted,54,0.508079198321988,0.0794419771279058,1.59916962467951e-10
+ieu-a-1095,ieu-a-1035,Difference in height between childhood and adulthood,Age at menarche,Weighted mode,54,0.329914663615366,0.150089450499824,0.0323297567521533
+ieu-a-1095,ieu-a-101,Hip circumference,Age at menarche,MR Egger,61,0.141582377153918,0.120704768359951,0.245524096005834
+ieu-a-1095,ieu-a-101,Hip circumference,Age at menarche,Weighted median,61,0.124687405503964,0.0355480755911289,0.00045221735332244
+ieu-a-1095,ieu-a-101,Hip circumference,Age at menarche,Inverse variance weighted,61,0.0834466841331025,0.031424227879039,0.007919357108668
+ieu-a-1095,ieu-a-101,Hip circumference,Age at menarche,Weighted mode,61,0.167393200874539,0.0634045689527864,0.0105485997711144
+ieu-a-1095,ieu-a-97,Height,Age at menarche,MR Egger,61,0.244813218094298,0.122039014227003,0.0494453650094988
+ieu-a-1095,ieu-a-97,Height,Age at menarche,Weighted median,61,0.153721340138207,0.0290577781898128,1.22185392638888e-07
+ieu-a-1095,ieu-a-97,Height,Age at menarche,Inverse variance weighted,61,0.129839799526594,0.0317046471001785,4.21635944894213e-05
+ieu-a-1095,ieu-a-97,Height,Age at menarche,Weighted mode,61,0.166617079363009,0.0418949127405688,0.000190327900129709
+ieu-a-1095,ieu-a-57,Hip circumference,Age at menarche,MR Egger,61,0.164810403005986,0.0918864533255079,0.0779971130959667
+ieu-a-1095,ieu-a-57,Hip circumference,Age at menarche,Weighted median,61,0.112531755475866,0.0262489275290761,1.81021490800638e-05
+ieu-a-1095,ieu-a-57,Hip circumference,Age at menarche,Inverse variance weighted,61,0.0744357514415677,0.0236985406163274,0.00168405139809184
+ieu-a-1095,ieu-a-57,Hip circumference,Age at menarche,Weighted mode,61,0.148126851155684,0.043556211654219,0.00120041292170285
+ieu-a-97,met-b-163,CD8:%Senescent,Height,MR Egger,44,0.294231822236085,0.329224076934015,0.376568242713164
+ieu-a-97,met-b-163,CD8:%Senescent,Height,Weighted median,44,0.406264548632205,0.103955868568995,9.30447332575014e-05
+ieu-a-97,met-b-163,CD8:%Senescent,Height,Inverse variance weighted,44,0.333206383457899,0.0745168169365976,7.76512346646259e-06
+ieu-a-97,met-b-163,CD8:%Senescent,Height,Weighted mode,44,0.469231438117632,0.226219867931983,0.0440794635777193
+ieu-a-97,met-b-239,NKeff:%337+,Height,MR Egger,44,0.0708629064854206,0.353746644545642,0.84219633916731
+ieu-a-97,met-b-239,NKeff:%337+,Height,Weighted median,44,-0.333576914369341,0.109868169459106,0.00239615265758913
+ieu-a-97,met-b-239,NKeff:%337+,Height,Inverse variance weighted,44,-0.222709311636893,0.0799178902455369,0.00532433762664965
+ieu-a-97,met-b-239,NKeff:%337+,Height,Weighted mode,44,-0.441875954613437,0.214689298733009,0.0456627320634903
+ieu-a-97,ieu-a-103,Waist circumference,Height,MR Egger,52,0.416689251297318,0.114774911607909,0.000665041948213069
+ieu-a-97,ieu-a-103,Waist circumference,Height,Weighted median,52,0.174506629980821,0.0372807100240017,2.85642372470806e-06
+ieu-a-97,ieu-a-103,Waist circumference,Height,Inverse variance weighted,52,0.173507680892861,0.0290046296848596,2.2032160640409e-09
+ieu-a-97,ieu-a-103,Waist circumference,Height,Weighted mode,52,0.182164371838288,0.0643896367536322,0.00665824211824365
+ieu-a-97,met-b-119,Lymph:%CD4,Height,MR Egger,44,-0.816091488306441,0.327020248407196,0.0165905903085135
+ieu-a-97,met-b-119,Lymph:%CD4,Height,Weighted median,44,-0.234854866253287,0.109119506869386,0.0313759327463688
+ieu-a-97,met-b-119,Lymph:%CD4,Height,Inverse variance weighted,44,-0.201518096137875,0.0740497841673041,0.00650086698141813
+ieu-a-97,met-b-119,Lymph:%CD4,Height,Weighted mode,44,-0.31485733554341,0.199881704919511,0.122535747061266
+ieu-a-97,met-b-125,Lymph:%CD8,Height,MR Egger,44,0.770090142942823,0.325797819180601,0.0227951117303653
+ieu-a-97,met-b-125,Lymph:%CD8,Height,Weighted median,44,0.227854458490673,0.101397151111597,0.0246305366608413
+ieu-a-97,met-b-125,Lymph:%CD8,Height,Inverse variance weighted,44,0.25733361181996,0.0737744768588477,0.000486444913697566
+ieu-a-97,met-b-125,Lymph:%CD8,Height,Weighted mode,44,0.274594250337058,0.188577656499622,0.152618967041907
+ieu-a-97,ieu-a-69,Waist circumference,Height,MR Egger,52,0.395000571745368,0.10088772321039,0.000273931197031281
+ieu-a-97,ieu-a-69,Waist circumference,Height,Weighted median,52,0.312574454464374,0.0262386554618527,1.01575276570225e-32
+ieu-a-97,ieu-a-69,Waist circumference,Height,Inverse variance weighted,52,0.364270055055025,0.0246224740120183,1.59647385711823e-49
+ieu-a-97,ieu-a-69,Waist circumference,Height,Weighted mode,52,0.280355299246948,0.0426301671300013,2.54024707204027e-08
+ieu-a-97,ieu-a-105,Waist circumference,Height,MR Egger,52,0.340381007688083,0.0812642742743853,0.00011384253468261
+ieu-a-97,ieu-a-105,Waist circumference,Height,Weighted median,52,0.241687742650843,0.0243656307764787,3.43473112576049e-23
+ieu-a-97,ieu-a-105,Waist circumference,Height,Inverse variance weighted,52,0.253789622611303,0.0197823567725851,1.12680801543841e-37
+ieu-a-97,ieu-a-105,Waist circumference,Height,Weighted mode,52,0.228860222792986,0.0429534233844354,2.26385975234687e-06
+ieu-a-97,ieu-a-99,Hip circumference,Height,MR Egger,52,0.462544024493151,0.138792480957882,0.0016246657927354
+ieu-a-97,ieu-a-99,Hip circumference,Height,Weighted median,52,0.272667256042125,0.0395708931579931,5.55569666241228e-12
+ieu-a-97,ieu-a-99,Hip circumference,Height,Inverse variance weighted,52,0.268841892540949,0.0342065139211413,3.86048354980867e-15
+ieu-a-97,ieu-a-99,Hip circumference,Height,Weighted mode,52,0.299972064391091,0.0780670704037709,0.000338678823913925
+ieu-a-97,ieu-a-1032,Height,Height,MR Egger,49,0.823915874012414,0.290782441962294,0.00676397405468271
+ieu-a-97,ieu-a-1032,Height,Height,Weighted median,49,0.723981741694462,0.091611502669102,2.72841780071894e-15
+ieu-a-97,ieu-a-1032,Height,Height,Inverse variance weighted,49,0.805577538712497,0.0713218270773215,1.38959444502274e-29
+ieu-a-97,ieu-a-1032,Height,Height,Weighted mode,49,0.641034830334745,0.199976362361498,0.00239880304449218
+ieu-a-97,ieu-a-1035,Difference in height between childhood and adulthood,Height,MR Egger,49,0.638989443734094,0.270652072995046,0.0224283730515876
+ieu-a-97,ieu-a-1035,Difference in height between childhood and adulthood,Height,Weighted median,49,0.422464231573578,0.0924896366005204,4.93122427735537e-06
+ieu-a-97,ieu-a-1035,Difference in height between childhood and adulthood,Height,Inverse variance weighted,49,0.545188842441135,0.0662189140762792,1.82386051390022e-16
+ieu-a-97,ieu-a-1035,Difference in height between childhood and adulthood,Height,Weighted mode,49,0.322735956681832,0.176263557454914,0.07331383548451
+ieu-a-97,ieu-a-107,Weight,Height,MR Egger,52,0.547781631822814,0.116413817153887,2.03795069717795e-05
+ieu-a-97,ieu-a-107,Weight,Height,Weighted median,52,0.393568173204373,0.0328052321295821,3.67893747708989e-33
+ieu-a-97,ieu-a-107,Weight,Height,Inverse variance weighted,52,0.384239744605129,0.0286953242886881,6.88778342633081e-41
+ieu-a-97,ieu-a-107,Weight,Height,Weighted mode,52,0.439330498640421,0.0730010180550405,1.92116260476332e-07
+ieu-a-97,ieu-a-63,Waist circumference,Height,MR Egger,52,0.259785652594384,0.0826001923795499,0.0027941306831851
+ieu-a-97,ieu-a-63,Waist circumference,Height,Weighted median,52,0.147989712573633,0.0235660333949471,3.39033267100398e-10
+ieu-a-97,ieu-a-63,Waist circumference,Height,Inverse variance weighted,52,0.145578834324242,0.0205478152298767,1.39163412052943e-12
+ieu-a-97,ieu-a-63,Waist circumference,Height,Weighted mode,52,0.120156310569514,0.0521649781527912,0.025368388305529
+ieu-a-97,ieu-a-101,Hip circumference,Height,MR Egger,52,0.583206402094136,0.102770310097645,6.97524248869935e-07
+ieu-a-97,ieu-a-101,Hip circumference,Height,Weighted median,52,0.540580367711012,0.0367711947322677,6.33355944790191e-49
+ieu-a-97,ieu-a-101,Hip circumference,Height,Inverse variance weighted,52,0.556085242243458,0.024971341616522,7.39337333035654e-110
+ieu-a-97,ieu-a-101,Hip circumference,Height,Weighted mode,52,0.542764853989849,0.0665137378927835,8.16865887573852e-11
+ieu-a-97,ieu-a-51,Hip circumference,Height,MR Egger,52,0.259785652594384,0.0826001923795499,0.0027941306831851
+ieu-a-97,ieu-a-51,Hip circumference,Height,Weighted median,52,0.147989712573633,0.022738458174445,7.59836544302892e-11
+ieu-a-97,ieu-a-51,Hip circumference,Height,Inverse variance weighted,52,0.145578834324242,0.0205478152298767,1.39163412052943e-12
+ieu-a-97,ieu-a-51,Hip circumference,Height,Weighted mode,52,0.120156310569514,0.0516633610170305,0.0240454677591444
+ieu-a-97,ieu-a-57,Hip circumference,Height,MR Egger,52,0.676954062164752,0.104366665236645,3.81908750678378e-08
+ieu-a-97,ieu-a-57,Hip circumference,Height,Weighted median,52,0.506484902657387,0.0303536503646338,1.65352418528412e-62
+ieu-a-97,ieu-a-57,Hip circumference,Height,Inverse variance weighted,52,0.544616730942286,0.0259664632794427,1.13679575869849e-97
+ieu-a-97,ieu-a-57,Hip circumference,Height,Weighted mode,52,0.50719388298085,0.0744788236127371,1.08681113062945e-08
