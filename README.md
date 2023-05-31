@@ -1,6 +1,6 @@
 
 # About easymr
-Find potential causal relationships between a numerious  exposures and outcomes is a command need.
+Find potential causal relationships between a numerious  exposures and outcomes is a command need.  
 `easymr` is a simple pipeline to do so.
 
 # Requirements 
