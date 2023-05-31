@@ -87,7 +87,7 @@ sprintf('number of valid exposure traits: %.0f', length(valid_expo_id))
 ```
 
 
-mr:
+Perform MR:
 ```
 for (id1 in valid_expo_id){
     for (id2 in outcome_id){
