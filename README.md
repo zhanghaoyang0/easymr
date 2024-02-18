@@ -1,1 +1,1 @@
-Demo of the MR catalog, visit [here](http://lap676.srv.lu.se:8503/mr_catalog/)http://lap676.srv.lu.se:8503/mr_catalog/).
+Demo of the MR catalog, visit [here](http://lap676.srv.lu.se:8503/mr_catalog/).
